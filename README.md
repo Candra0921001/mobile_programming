@@ -1,3 +1,3 @@
 # mobile_programming
-Sebuah aplikasi yang menggunakan Flutter dan di operasikan di Android Studio
+Aplikasi berita Game Terbaru atau Game News dengan menggunakan framework Flutter.
 Aplikasi ini digunakan untuk memenuhi Ujian Akhir Pemrograman Mobile dan Praktikum Pemrograman Mobile
